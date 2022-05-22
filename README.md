@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou o @caarlosheenrique
+- 👀 Estou interessado em aprender engenharia de software.
+- 🌱  Atualmente estou aprendendo Java e a usar a Bukkit-API.
+- 💞 Estou procurando colaborar com Servidores de Minecraft.
+- 📫 É possível chegar até mim através do meu e-mail: caarlosheenrique01@outlook.com
